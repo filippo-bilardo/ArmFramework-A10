@@ -1,0 +1,17 @@
+del *.bak
+del *.axf
+del *.d
+del *.dep
+del *.crf
+del *.lst
+del *.map
+del *.htm
+del *.o
+del *.tra
+del *.lnp
+del *.plg
+del *.Filippo
+del *.fbilardo
+del *.filippo.bilardo
+del *.uvopt
+del *.iex
